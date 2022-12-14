@@ -32,4 +32,6 @@ terms
 git config --global user.name "Nanocubes12"
 
 
-git commit -
+git commit -m "message"
+
+git checkout -b submit-1
